@@ -32,10 +32,6 @@ section > header{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
