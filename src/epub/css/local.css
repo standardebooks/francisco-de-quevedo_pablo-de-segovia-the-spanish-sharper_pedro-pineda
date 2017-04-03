@@ -71,3 +71,7 @@ p span.i1{
 .proclamation header p + p{
 	font-style: italic;
 }
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
