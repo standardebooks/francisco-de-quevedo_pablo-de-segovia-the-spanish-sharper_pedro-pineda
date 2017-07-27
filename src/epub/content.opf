@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/francisco-de-quevedo/pablo-de-segovia-the-spanish-sharper/pedro-pineda</dc:identifier>
 		<dc:date>2017-04-04T00:36:32Z</dc:date>
-		<meta property="dcterms:modified">2017-07-22T01:01:08Z</meta>
-		<meta property="se:revision-number">10</meta>
+		<meta property="dcterms:modified">2017-07-27T20:19:08Z</meta>
+		<meta property="se:revision-number">11</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,8 +33,8 @@
 		<dc:description id="description">The adventures of a swindler in 17th-century Spain.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Francisco de Quevedo holds the status of a man-of-letters in the same pantheon as Cervantes; but despite that, &lt;i&gt;Pablo de Segovia&lt;/i&gt; is his only novel.  Quevedo had circulated the manuscript privately for several years before it was published in 1626 without his permission. The novel is partly a satire of contemporary Spanish life, and a caricature of the various social strata Pablo encounters and emulates.&lt;/p&gt;
-			&lt;p&gt;Pablo himself is a low-born person who aspires to become a gentleman, but despite his best efforts he repeatedly fails and is eventually forced to become a “sharper,” or rogue.  His failures give Quevedo an avenue to expound on his belief that attempting to break past your social class can only lead to disorder; and that despite one’s best efforts, bettering oneself is largely impossible.  Pablo’s stumbling from misfortune to misfortune is a farce that helped cement Quevedo’s reputation as a literary giant.&lt;/p&gt;
+			&lt;p&gt;Francisco de Quevedo holds the status of a man-of-letters in the same pantheon as Cervantes; but despite that, &lt;i&gt;Pablo de Segovia&lt;/i&gt; is his only novel. Quevedo had circulated the manuscript privately for several years before it was published in 1626 without his permission. The novel is partly a satire of contemporary Spanish life, and a caricature of the various social strata Pablo encounters and emulates.&lt;/p&gt;
+			&lt;p&gt;Pablo himself is a low-born person who aspires to become a gentleman, but despite his best efforts he repeatedly fails and is eventually forced to become a “sharper,” or rogue. His failures give Quevedo an avenue to expound on his belief that attempting to break past your social class can only lead to disorder; and that despite one’s best efforts, bettering oneself is largely impossible. Pablo’s stumbling from misfortune to misfortune is a farce that helped cement Quevedo’s reputation as a literary giant.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
