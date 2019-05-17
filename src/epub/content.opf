@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Pablo de Segovia, the Spanish Sharper</dc:title>
 		<meta property="file-as" refines="#title">Pablo de Segovia, the Spanish Sharper</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -36,17 +36,18 @@
 		<dc:subject id="subject-1">Swindlers and swindling -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Spain -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Picaresque literature, Spanish</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/46125</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/46125</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/46125</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008111401</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008117129</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85101930</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The adventures of a swindler in 17th-century Spain.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Francisco de Quevedo holds the status of a man-of-letters in the same pantheon as Cervantes; but despite that, &lt;i&gt;Pablo de Segovia&lt;/i&gt; is his only novel. Quevedo had circulated the manuscript privately for several years before it was published in 1626 without his permission. The novel is partly a satire of contemporary Spanish life, and a caricature of the various social strata Pablo encounters and emulates.&lt;/p&gt;
 			&lt;p&gt;Pablo himself is a low-born person who aspires to become a gentleman, but despite his best efforts he repeatedly fails and is eventually forced to become a “sharper,” or rogue. His failures give Quevedo an avenue to expound on his belief that attempting to break past your social class can only lead to disorder; and that despite one’s best efforts, bettering oneself is largely impossible. Pablo’s stumbling from misfortune to misfortune is a farce that helped cement Quevedo’s reputation as a literary giant.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46125</dc:source>
 		<dc:source>https://books.google.com/books?id=7y5LAQAAIAAJ</dc:source>
