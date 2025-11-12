@@ -64,8 +64,8 @@
 		<dc:contributor id="author-of-introduction">H. E. Watts</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Watts, H. E.</meta>
 		<meta property="se:name.person.full-name" refines="#author-of-introduction">Henry Edward Watts</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator">Pedro Pineda</dc:contributor>
 		<meta property="file-as" refines="#translator">Pineda, Pedro</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
