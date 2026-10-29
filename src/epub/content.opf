@@ -75,7 +75,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Diego Velázquez</dc:contributor>
 		<meta property="file-as" refines="#artist">Velázquez, Diego</meta>
-		<meta property="schema:alternateName" refines="#author">Diego Rodríguez de Silva y Velázquez</meta>
+		<meta property="schema:alternateName" refines="#artist">Diego Rodríguez de Silva y Velázquez</meta>
 		<link href="https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79063457.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
